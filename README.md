@@ -1,0 +1,1 @@
+Foi explicado sobre o básico de tipos de núvens sendo a privada, com acesso apenas da empresa, pública, com acesso ao público e a híbrida que tem ambos acessos. Foi falado sobre as formas de cobrança como CAPEX, custo da infraestrutura física e OPEX que são gastos operacionais como salários e serviços.
